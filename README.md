@@ -1,2 +1,2 @@
 # New
-## local repo to server
+## sync local and remo server
