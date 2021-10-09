@@ -1,2 +1,3 @@
 # New
-## local repo to server
+## syn local repo and remo repo
+
